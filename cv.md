@@ -5,7 +5,7 @@ title: Tursynbek Adilbek's CV
 
 # Tursynbek Adilbek
 
-<div style="text-align:center">
+<div style="text-align:left">
 <img src="./resources/image.jpg" alt="drawing" width="300"/>
 </div>
 
