@@ -5,6 +5,10 @@ title: Tursynbek Adilbek's CV
 
 # Tursynbek Adilbek
 
+<div style="text-align:center">
+<img src="./resources/image.jpg" alt="drawing" width="300"/>
+</div>
+
 <div id="webaddress">
 <a href="mailto:tadilbek11kz@gmail.com">tadilbek11kz@gmail.com</a>
 |
